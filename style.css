@@ -1,0 +1,33 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: Impact;
+    margin-top: 40px;
+}
+
+
+.text{
+   
+    text-align: center;
+    font-size: 40px;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+   text-align: center;
+   margin-left: 600px;
+}
+
+
+button:hover{
+    background-color: green;
+}
+
+#quoteText{
+    text-align: center;
+    font-size: 35px;
+}
