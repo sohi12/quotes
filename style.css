@@ -1,9 +1,25 @@
+
+.head{
+    background-color: rgb(197, 132, 154);
+    width: 100%;
+    height: 100%;
+}
+
+
+body{
+    margin: 0;
+}
+
+
+
+
+
 .title{
     text-align: center;
     font-weight: bold;
     font-size: 80px;
     font-family: Impact;
-    margin-top: 40px;
+    /* margin-top: 40px; */
 }
 
 
@@ -16,7 +32,7 @@
 button{
     width: 250px;
     height: 80px;
-    background-color: blue;
+    background-color: white;
     color: white;
    text-align: center;
    margin-left: 600px;
@@ -24,10 +40,15 @@ button{
 
 
 button:hover{
-    background-color: green;
+    background-color:rgb(160, 39, 80)
 }
 
 #quoteText{
     text-align: center;
     font-size: 35px;
+}
+
+
+#quoteButton{
+    color: black;
 }

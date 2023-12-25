@@ -1,6 +1,6 @@
 
 var quotes = [
-    'Be yourself; everyone else is already taken. Oscar Wilde  - Oscar Wilde',
+
     'A room without books is like a body without a soul. -Marcus Tullius Cicero',
     'A friend is someone who knows all about you and still loves you. -Elbert Hubbard',
     'It is better to be hated for what you are than to be loved for what you are not. -Andre Gide, Autumn Leaves',
